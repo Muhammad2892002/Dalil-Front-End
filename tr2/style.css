@@ -1,0 +1,23 @@
+.hero-dalil{
+
+    background-color: #293343;
+    color: #ffffff;
+}
+.container-footer{
+     background-color: #293343;
+       color: #ffffff;
+       
+
+}
+.btn-size-Card-course{
+    width: 100%;
+}
+.robot-color{
+    background-color: rgb(219, 224, 224);
+    width: 20%;
+    
+    border-radius: 60px;
+    font-size: 2rem !important;
+  
+    text-align: center;
+}
