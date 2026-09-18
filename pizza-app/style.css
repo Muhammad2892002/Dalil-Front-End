@@ -1,0 +1,77 @@
+
+*{
+     color :rgba(246, 239, 221, .8) !important;
+}
+.navbar-color{
+    background-color: #221d18;
+  
+}
+.nav-elments{
+      color :rgba(246, 239, 221, .8) !important;
+}
+.active-link:hover{
+  color:var(--bs-warning)!important;
+  cursor: pointer;
+}
+.nav-options{
+    width: 100%;
+}
+.brand-burger-btn{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+ .pizza-genral-info{
+    background-color: #514c44;
+ }
+ .see-menu{
+    color:#514c44 !important;
+ }
+ .see-menu:hover{
+    border-color:#514c44 !important ;
+ background-color: #514c44;
+ color :white !important;
+
+ }
+ .btn-order-ahead{
+    border-color: white !important;
+ }
+ .btn-order-ahead:hover{
+     color:var(--bs-warning)!important;
+     border-color: var(--bs-warning)!important;
+    
+ }
+ .menu-color{
+    background-color: #f6efdd;
+ }
+ .color-blk{
+    color:black !important;
+ }
+ main{
+    background-color: #f6efdd;
+ }
+ .menu-Image{
+    background-image: url("https://images.unsplash.com/photo-1593504049359-74330189a345?w=1800&auto=format&fit=crop&q=80");
+    background-position: center;
+    background-size: cover;
+    background-attachment:scroll;
+    border-radius: 25px;
+ 
+ }
+ .menus{
+    color: black !important;
+ }
+.pizza-type {
+    color: #566b3b !important;
+    border: #566b3b solid 2px;
+   font-size: small;
+    text-align: center;
+    border-radius: 20px;
+}
+icon-food-color{
+     color: #566b3b !important;
+    
+}
+.price-color{
+    color:#c3495a !important;
+}
