@@ -68,7 +68,7 @@
     text-align: center;
     border-radius: 20px;
 }
-icon-food-color{
+.icon-food-color{
      color: #566b3b !important;
     
 }
@@ -79,15 +79,21 @@ icon-food-color{
    background-color: #221d18;
 }
 .image-oven-conatiner{
-   width: 100%;
-   height: 100%;
+   width: 600px;
+   height: 300px;
    background-image: url("Images/making-dough.avif");
    background-position: center;
-   background-size: 120%;
+   background-size: cover;
    text-align: center;
    background-repeat: no-repeat;
-   border-radius: 20px;
-   background-attachment: scroll;
+  
+  
+   
+  
+    
+
+    background-attachment:scroll;
+    border-radius: 25px;
 }
 .beside-order-info{
 
@@ -115,4 +121,31 @@ icon-food-color{
 .icon:hover{
    color: var(--bs-warning)!important;
    cursor: pointer;
+}
+.navbar-collapse{
+   width: 100%;
+}
+.ul-di{
+   list-style: none;
+       width: 100%;
+       height: 100%;
+  
+}
+.nav-row{
+   width: 100%;
+}
+.nav-ul-a{
+   
+   width: 100%;
+}
+.order-btn{
+   width: 100%;
+}
+.img-oven-text{
+       height: 100%;
+    background-color: #06050559;
+    backdrop-filter: blur(4px);
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
 }
